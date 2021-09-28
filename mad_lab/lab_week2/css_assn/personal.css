@@ -1,0 +1,30 @@
+#header > a {
+    color: #ff0000;
+}
+
+#header > a:link {
+    text-decoration: none;
+}
+
+#footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
+#main > a {
+    color: #ff0000
+}
+
+body {
+    background-color: #fdfdbb;
+}
+
+div {
+    margin: 20px;
+}
+
+#main > a:link {
+    text-decoration: none;
+  }

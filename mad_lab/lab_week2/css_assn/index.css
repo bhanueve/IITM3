@@ -1,0 +1,37 @@
+body {
+    background-color: #fdfdbb;
+}
+
+div {
+    margin: 20px;
+}
+
+#header > a {
+    color: #ff0000;
+}
+
+#header > a:link {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+#name {
+    color: #0000ff;
+}
+#id {
+    color: #0000ff;
+}
+#intro {
+    color: #0000ff;
+}
+
+#footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
+
