@@ -39,7 +39,7 @@ try:
 except:
     error_message()
     sys.exit()
-#Reading the data.csv file and converting data to int.
+#Reading the data.csv file.
 file_temp1 = open("data.csv", 'r')
 file = csv.DictReader(file_temp1)
 total = 0
